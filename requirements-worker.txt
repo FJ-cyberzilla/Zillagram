@@ -18,7 +18,7 @@ gensim==4.3.2
 
 # Computer Vision
 opencv-python-headless==4.8.1.78
-Pillow==10.1.0
+Pillow==10.3.0
 
 # Message Queues
 celery==5.3.4
